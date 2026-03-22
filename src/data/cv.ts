@@ -1,7 +1,7 @@
 export const experiences = [
 	{
-		company: '',
-		time: '',
+		company: ' Researcher',
+		time: '2020 -2025',
 		title: '',
 		location: '',
 		description: '',
