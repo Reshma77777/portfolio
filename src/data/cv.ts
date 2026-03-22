@@ -7,7 +7,7 @@ export const experiences = [
 		description: '',
 	},
 	// {
-	// 	company: 'Radium Institute (Institut du Radium)',
+	// 	company: 'Researcher',
 	// 	time: '1914 - 1934',
 	// 	title: 'Director',
 	// 	location: 'Paris, France',
