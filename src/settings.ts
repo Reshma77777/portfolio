@@ -1,9 +1,9 @@
 export const profile = {
-	fullName: 'Your Name',
+	fullName: 'Reshma Joy',
 	title: '',
 	institute: '',
 	author_name: '', // Author name to be highlighted in the papers section
-	research_areas: [
+	research_areas: [ Basal Cognition , Philosophy of Biology , Philosophy of Cognition and , Philosophy of Self
 		// { title: 'Physics', description: 'Brief description of the research interest', field: 'physics' },
 	],
 }
