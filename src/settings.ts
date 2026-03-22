@@ -3,7 +3,7 @@ export const profile = {
 	title: '',
 	institute: '',
 	author_name: '', // Author name to be highlighted in the papers section
-	research_areas: [ Basal Cognition , Philosophy of Biology , Philosophy of Cognition and , Philosophy of Self
+	research_areas: { title: 'Basal Cognition', description: 'Brief description of the research interest', field: 'Philosophy' },
 		// { title: 'Physics', description: 'Brief description of the research interest', field: 'physics' },
 	],
 }
